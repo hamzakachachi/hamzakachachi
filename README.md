@@ -4,7 +4,7 @@
 🤝 I’m dreaming of teaming up on exciting web and mobile projects, especially ones powered by Laravel, ReactJS, or NodeJS.<br><br>
 💡 I’d love to geek out with others about fine-tuning performance in microservices architecture to make apps lightning-fast.<br><br>
 🌱 I’m on a learning adventure, diving deeper into advanced DevOps, Docker, and CI/CD workflows to level up my craft.<br><br>
-💬 Let’s chat about ReactJS, VueJS, NextJS, Laravel, NodeJS—pretty much anything that sparks innovation.<br><br>
+💬 Let’s chat about ReactJS, VueJS, NextJS, Laravel, NodeJS pretty much anything that sparks innovation.<br><br>
 ⚡ Debugging is my detective game, chasing clues through code… only to realize I’m often the mastermind behind the bug! 😅<br>
 
 
