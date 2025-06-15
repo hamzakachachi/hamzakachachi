@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hi, I'm Hamza Kachachi!<br>🚀 Full-Stack Web Developer | Passionate about building scalable web & mobile applications<br><br>🔭 I’m currently working on<br>Web & mobile applications using ReactJS, Laravel, MERN stack<br>Developing tracking and alert management apps<br>🤝 I’m looking to collaborate on<br>Web & mobile projects, especially in Laravel, ReactJS, and NodeJS<br>💡 I’m looking for help with<br>Optimizing performance in microservices architecture<br>🌱 I’m currently learning<br>Advanced DevOps, Docker, and CI/CD workflows<br>💬 Ask me about<br>ReactJS, VueJS, NextJS, Laravel, NodeJS<br>⚡ Fun fact<br>I believe debugging is like solving a detective case except the culprit is me. 😅<br>
+👋 Hey, I’m Hamza Kachachi!<br>
+🚀 I’m a Full-Stack Web Developer who loves weaving code into scalable web and mobile applications that make a difference.<br><br>
+🔭 Right now, I’m pouring my energy into crafting web and mobile experiences with ReactJS, Laravel, and the MERN stack, while also building clever tracking and alert management apps that keep things running smoothly.<br><br>
+🤝 I’m dreaming of teaming up on exciting web and mobile projects, especially ones powered by Laravel, ReactJS, or NodeJS.<br><br>
+💡 I’d love to geek out with others about fine-tuning performance in microservices architecture to make apps lightning-fast.<br><br>
+🌱 I’m on a learning adventure, diving deeper into advanced DevOps, Docker, and CI/CD workflows to level up my craft.<br><br>
+💬 Let’s chat about ReactJS, VueJS, NextJS, Laravel, NodeJS—pretty much anything that sparks innovation.<br><br>
+⚡ Debugging is my detective game, chasing clues through code… only to realize I’m often the mastermind behind the bug! 😅<br>
 
 
 ## 🌐 Socials:
